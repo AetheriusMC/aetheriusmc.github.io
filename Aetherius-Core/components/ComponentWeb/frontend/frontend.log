@@ -1,0 +1,27 @@
+
+> aetherius-web-frontend@0.1.0 dev
+> vite --host 0.0.0.0 --port 3000 --strictPort
+
+
+  VITE v4.5.14  ready in 882 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://10.0.0.190:3000/
+6:42:04 PM [vite] changed tsconfig file detected: /workspaces/aetheriusmc.github.io/Aetherius-Core/components/ComponentWeb/frontend/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+6:42:21 PM [vite] hmr update /src/views/Dashboard/DashboardView.vue, /src/components/Layout/NavBar.vue
+6:42:33 PM [vite] hmr update /src/views/Dashboard/DashboardView.vue
+6:42:43 PM [vite] hmr update /src/views/Dashboard/DashboardView.vue, /src/views/Console/ConsoleView.vue, /src/components/Layout/NavBar.vue
+6:49:10 PM [vite] hmr update /src/views/FileManager/FileManagerView.vue, /src/views/Dashboard/DashboardView.vue, /src/components/Layout/NavBar.vue, /src/views/Players/PlayersView.vue, /src/components/FileManager/FileEditorDialog.vue
+6:49:10 PM [vite] hmr update /src/views/FileManager/FileManagerView.vue, /src/views/Dashboard/DashboardView.vue, /src/components/Layout/NavBar.vue, /src/views/Players/PlayersView.vue, /src/components/FileManager/FileEditorDialog.vue
+6:49:45 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+6:49:57 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+6:50:28 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+6:50:36 PM [vite] hmr update /src/views/Console/ConsoleView.vue?vue&type=style&index=0&scoped=d8332022&lang.css
+6:50:42 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+7:17:54 PM [vite] hmr update /src/views/Dashboard/DashboardView.vue, /src/components/Layout/NavBar.vue
+7:23:06 PM [vite] hmr update /src/components/FileManager/FileEditorDialog.vue
+7:23:29 PM [vite] hmr update /src/views/Dashboard/DashboardView.vue, /src/views/Console/ConsoleView.vue, /src/components/Layout/NavBar.vue
+7:28:20 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+7:28:33 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+7:28:50 PM [vite] hmr update /src/views/Console/ConsoleView.vue
+7:29:02 PM [vite] hmr update /src/views/Console/ConsoleView.vue

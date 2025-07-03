@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(ss:*)",
+      "Bash(npm install)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(npm run dev)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(redis-server:*)",
+      "Bash(mv:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(pkill:*)",
+      "Bash(sed:*)",
+      "Bash(sqlite3:*)",
+      "Bash(cp:*)",
+      "Bash(grep:*)",
+      "Bash(kill:*)",
+      "Bash(aetherius debug:*)",
+      "Bash(aetherius component:*)"
+    ],
+    "deny": []
+  }
+}

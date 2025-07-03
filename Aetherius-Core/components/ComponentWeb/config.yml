@@ -1,0 +1,41 @@
+# Aetherius Component: Web - 组件配置
+# ================================
+
+# Web服务器配置
+web_host: "0.0.0.0"
+web_port: 8080
+
+# CORS配置
+cors_origins:
+  - "http://localhost:3000"
+  - "http://127.0.0.1:3000"
+
+# 日志配置
+log_level: "INFO"
+
+# 控制台配置
+max_log_lines: 1000
+
+# WebSocket配置
+websocket_timeout: 60
+
+# 功能开关
+enable_file_manager: true
+enable_player_management: true
+
+# 安全配置
+secret_key: "aetherius-web-component-secret-key"
+
+# 数据库配置（如果将来需要）
+database_url: "sqlite:///./data/web_component.db"
+
+# API配置
+api_timeout: 30
+api_retry_attempts: 3
+
+# 缓存配置
+cache_ttl: 300  # 5分钟
+
+# 性能配置
+max_connections: 100
+request_timeout: 30

@@ -1,0 +1,1849 @@
+2025-07-01 10:18:04,675 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:18:04,676 - app.main - INFO - Database initialized successfully
+2025-07-01 10:18:04,678 - app.services.cache - ERROR - Failed to initialize cache service: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:18:04,678 - app.main - ERROR - Cache initialization failed: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:18:04,678 - app.main - ERROR - Failed to initialize services: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:18:12,173 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:18:12,173 - app.main - INFO - Database initialized successfully
+2025-07-01 10:18:12,175 - app.services.cache - ERROR - Failed to initialize cache service: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:18:12,175 - app.main - ERROR - Cache initialization failed: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:18:12,175 - app.main - ERROR - Failed to initialize services: Error 111 connecting to localhost:6379. 111.
+2025-07-01 10:21:38,981 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:21:38,981 - app.main - INFO - Database initialized successfully
+2025-07-01 10:21:38,983 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:21:38,983 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:21:39,003 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:21:39,082 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:21:39,082 - app.main - INFO - All services initialized successfully
+2025-07-01 10:35:23,294 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:35:23,294 - app.main - INFO - Database initialized successfully
+2025-07-01 10:35:23,296 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:35:23,296 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:35:23,312 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:35:23,346 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:35:23,346 - app.main - INFO - All services initialized successfully
+2025-07-01 10:36:09,745 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:36:09,745 - app.main - INFO - Database initialized successfully
+2025-07-01 10:36:09,747 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:36:09,747 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:36:09,761 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:36:09,792 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:36:09,792 - app.main - INFO - All services initialized successfully
+2025-07-01 10:37:04,495 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:37:04,495 - app.main - INFO - Database initialized successfully
+2025-07-01 10:37:04,497 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:37:04,498 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:37:04,516 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:37:04,589 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:37:04,589 - app.main - INFO - All services initialized successfully
+2025-07-01 10:40:12,297 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:40:12,297 - app.main - INFO - Database initialized successfully
+2025-07-01 10:40:12,299 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:40:12,299 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:40:12,313 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:40:12,347 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:40:12,347 - app.main - INFO - All services initialized successfully
+2025-07-01 10:41:07,215 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:41:07,215 - app.main - INFO - Database initialized successfully
+2025-07-01 10:41:07,218 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:41:07,218 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:41:07,233 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:41:07,266 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:41:07,266 - app.main - INFO - All services initialized successfully
+2025-07-01 10:41:46,599 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:41:46,600 - app.main - INFO - Database initialized successfully
+2025-07-01 10:41:46,602 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:41:46,602 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:41:46,615 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:41:46,648 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:41:46,648 - app.main - INFO - All services initialized successfully
+2025-07-01 10:43:28,308 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:43:28,308 - app.main - INFO - Database initialized successfully
+2025-07-01 10:43:28,310 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:43:28,310 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:43:28,324 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:43:28,357 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:43:28,357 - app.main - INFO - All services initialized successfully
+2025-07-01 10:43:59,996 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:43:59,997 - app.main - INFO - Database initialized successfully
+2025-07-01 10:43:59,999 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:43:59,999 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:44:00,013 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:44:00,045 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:44:00,045 - app.main - INFO - All services initialized successfully
+2025-07-01 10:51:08,525 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:51:08,525 - app.main - INFO - Database initialized successfully
+2025-07-01 10:51:08,527 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:51:08,527 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:51:08,542 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:51:08,573 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:51:08,573 - app.main - INFO - All services initialized successfully
+2025-07-01 10:51:29,247 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:51:29,248 - app.main - INFO - Database initialized successfully
+2025-07-01 10:51:29,250 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:51:29,250 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:51:29,263 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:51:29,296 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:51:29,296 - app.main - INFO - All services initialized successfully
+2025-07-01 10:52:01,741 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:52:01,741 - app.main - INFO - Database initialized successfully
+2025-07-01 10:52:01,743 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:52:01,743 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:52:01,756 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:52:01,789 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:52:01,789 - app.main - INFO - All services initialized successfully
+2025-07-01 10:52:42,771 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:52:42,772 - app.main - INFO - Database initialized successfully
+2025-07-01 10:52:42,774 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:52:42,774 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:52:42,787 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:52:42,820 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:52:42,820 - app.main - INFO - All services initialized successfully
+2025-07-01 10:53:32,959 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:53:32,959 - app.main - INFO - Database initialized successfully
+2025-07-01 10:53:32,961 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:53:32,961 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:53:32,975 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:53:33,006 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:53:33,006 - app.main - INFO - All services initialized successfully
+2025-07-01 10:55:14,683 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:55:14,684 - app.main - INFO - Database initialized successfully
+2025-07-01 10:55:14,686 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:55:14,686 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:55:14,702 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:55:14,735 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:55:14,735 - app.main - INFO - All services initialized successfully
+2025-07-01 10:55:46,633 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:55:46,634 - app.main - INFO - Database initialized successfully
+2025-07-01 10:55:46,637 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:55:46,637 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:55:46,652 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:55:46,688 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:55:46,688 - app.main - INFO - All services initialized successfully
+2025-07-01 10:56:11,413 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:56:11,413 - app.main - INFO - Database initialized successfully
+2025-07-01 10:56:11,415 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:56:11,416 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:56:11,429 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:56:11,459 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:56:11,459 - app.main - INFO - All services initialized successfully
+2025-07-01 10:57:15,371 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:57:15,371 - app.main - INFO - Database initialized successfully
+2025-07-01 10:57:15,373 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:57:15,373 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:57:15,393 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:57:15,424 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:57:15,424 - app.main - INFO - All services initialized successfully
+2025-07-01 10:57:15,754 - app.main - INFO - WebConsole application started successfully
+2025-07-01 10:57:22,171 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 10:57:22,171 - app.services.database - INFO - Database service disposed
+2025-07-01 10:57:22,172 - app.services.cache - INFO - Cache service disposed
+2025-07-01 10:57:22,172 - app.main - INFO - Services cleanup completed
+2025-07-01 10:57:22,172 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 10:57:34,909 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 10:57:34,909 - app.main - INFO - Database initialized successfully
+2025-07-01 10:57:34,911 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 10:57:34,911 - app.main - INFO - Cache service initialized successfully
+2025-07-01 10:57:34,928 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 10:57:34,960 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 10:57:34,960 - app.main - INFO - All services initialized successfully
+2025-07-01 10:57:35,322 - app.main - INFO - WebConsole application started successfully
+2025-07-01 10:57:52,689 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 10:57:52,690 - app.middleware.security - ERROR - Security middleware error: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 62, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 177, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 10:57:52,693 - app.middleware.logging - ERROR - Request failed - GET / Error:  Time: 0.004s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 10:57:52,696 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 10:58:03,607 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 10:58:03,608 - app.middleware.security - ERROR - Security middleware error: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 62, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 177, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 10:58:03,609 - app.middleware.logging - ERROR - Request failed - GET / Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 10:58:03,611 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:04:07,231 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:04:07,231 - app.main - INFO - Database initialized successfully
+2025-07-01 11:04:07,233 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:04:07,233 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:04:07,247 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:04:07,279 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:04:07,279 - app.main - INFO - All services initialized successfully
+2025-07-01 11:04:07,625 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:04:14,044 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:04:14,045 - app.services.database - INFO - Database service disposed
+2025-07-01 11:04:14,045 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:04:14,046 - app.main - INFO - Services cleanup completed
+2025-07-01 11:04:14,046 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:04:27,959 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:04:27,959 - app.main - INFO - Database initialized successfully
+2025-07-01 11:04:27,962 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:04:27,962 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:04:27,984 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:04:28,044 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:04:28,045 - app.main - INFO - All services initialized successfully
+2025-07-01 11:04:28,442 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:04:43,487 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:04:43,489 - app.middleware.security - ERROR - Security middleware error: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 62, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 178, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:04:43,490 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:04:43,493 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:04:43,873 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:04:43,874 - app.middleware.security - ERROR - Security middleware error: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 62, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 178, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:04:43,874 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.002s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:04:43,875 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:05:21,105 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:05:21,106 - app.middleware.security - ERROR - Security middleware error: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 62, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 178, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:05:21,107 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.002s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:05:21,108 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 73, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:06:42,789 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:06:42,790 - app.services.database - INFO - Database service disposed
+2025-07-01 11:06:42,791 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:06:42,791 - app.main - INFO - Services cleanup completed
+2025-07-01 11:06:42,791 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:06:44,576 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:06:44,576 - app.main - INFO - Database initialized successfully
+2025-07-01 11:06:44,579 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:06:44,579 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:06:44,594 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:06:44,630 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:06:44,630 - app.main - INFO - All services initialized successfully
+2025-07-01 11:06:44,999 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:06:52,663 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:06:52,665 - app.middleware.security - INFO - Processing request cc89f65c-374c-4c29-8ba3-e632248da366: GET https://localhost:8000/docs
+2025-07-01 11:06:52,665 - app.middleware.security - INFO - Request cc89f65c-374c-4c29-8ba3-e632248da366 requires authentication: False
+2025-07-01 11:06:52,665 - app.middleware.security - INFO - Calling next middleware for request cc89f65c-374c-4c29-8ba3-e632248da366
+2025-07-01 11:06:52,666 - app.middleware.security - INFO - Request cc89f65c-374c-4c29-8ba3-e632248da366 processed by downstream, adding headers
+2025-07-01 11:06:52,666 - app.middleware.security - ERROR - Unexpected error in security middleware for request cc89f65c-374c-4c29-8ba3-e632248da366: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 188, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:06:52,668 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.004s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 82, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:06:52,671 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 82, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:06:58,247 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:06:58,248 - app.services.database - INFO - Database service disposed
+2025-07-01 11:06:58,248 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:06:58,249 - app.main - INFO - Services cleanup completed
+2025-07-01 11:06:58,249 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:07:38,750 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:07:38,750 - app.main - INFO - Database initialized successfully
+2025-07-01 11:07:38,752 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:07:38,753 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:07:38,766 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:07:38,806 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:07:38,806 - app.main - INFO - All services initialized successfully
+2025-07-01 11:07:39,182 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:07:45,607 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:07:45,607 - app.services.database - INFO - Database service disposed
+2025-07-01 11:07:45,608 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:07:45,608 - app.main - INFO - Services cleanup completed
+2025-07-01 11:07:45,608 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:08:38,575 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:08:38,575 - app.main - INFO - Database initialized successfully
+2025-07-01 11:08:38,579 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:08:38,580 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:08:38,602 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:08:38,657 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:08:38,658 - app.main - INFO - All services initialized successfully
+2025-07-01 11:08:39,112 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:08:44,484 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:08:44,485 - app.middleware.security - INFO - Processing request 1a6b512f-dd49-4387-b7b3-3c46d8e03b86: GET https://localhost:8000/docs
+2025-07-01 11:08:44,485 - app.middleware.security - INFO - Request 1a6b512f-dd49-4387-b7b3-3c46d8e03b86 requires authentication: False
+2025-07-01 11:08:44,485 - app.middleware.security - INFO - Calling next middleware for request 1a6b512f-dd49-4387-b7b3-3c46d8e03b86
+2025-07-01 11:08:44,486 - app.middleware.security - INFO - Request 1a6b512f-dd49-4387-b7b3-3c46d8e03b86 processed by downstream, adding headers
+2025-07-01 11:08:44,486 - app.middleware.security - ERROR - Unexpected error in security middleware for request 1a6b512f-dd49-4387-b7b3-3c46d8e03b86: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:08:44,487 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:08:44,489 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:08:55,629 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:08:55,630 - app.middleware.security - INFO - Processing request 1300eb88-937c-4c93-87fb-72e0de2e1e83: GET https://localhost:8000/docs
+2025-07-01 11:08:55,630 - app.middleware.security - INFO - Request 1300eb88-937c-4c93-87fb-72e0de2e1e83 requires authentication: False
+2025-07-01 11:08:55,630 - app.middleware.security - INFO - Calling next middleware for request 1300eb88-937c-4c93-87fb-72e0de2e1e83
+2025-07-01 11:08:55,631 - app.middleware.security - INFO - Request 1300eb88-937c-4c93-87fb-72e0de2e1e83 processed by downstream, adding headers
+2025-07-01 11:08:55,631 - app.middleware.security - ERROR - Unexpected error in security middleware for request 1300eb88-937c-4c93-87fb-72e0de2e1e83: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:08:55,633 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.004s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:08:55,635 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:08:59,112 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:08:59,113 - app.middleware.security - INFO - Processing request d6aae56b-f5c9-42bc-9ae9-6b47c3f92fe1: GET https://localhost:8000/
+2025-07-01 11:08:59,113 - app.middleware.security - INFO - Request d6aae56b-f5c9-42bc-9ae9-6b47c3f92fe1 requires authentication: False
+2025-07-01 11:08:59,113 - app.middleware.security - INFO - Calling next middleware for request d6aae56b-f5c9-42bc-9ae9-6b47c3f92fe1
+2025-07-01 11:08:59,114 - app.middleware.security - INFO - Request d6aae56b-f5c9-42bc-9ae9-6b47c3f92fe1 processed by downstream, adding headers
+2025-07-01 11:08:59,115 - app.middleware.security - ERROR - Unexpected error in security middleware for request d6aae56b-f5c9-42bc-9ae9-6b47c3f92fe1: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:08:59,116 - app.middleware.logging - ERROR - Request failed - GET / Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:08:59,117 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:09:03,222 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:09:03,222 - app.middleware.security - INFO - Processing request 4a66dd52-cc66-4fe0-9973-7d306507e6d3: GET https://localhost:8000/
+2025-07-01 11:09:03,222 - app.middleware.security - INFO - Request 4a66dd52-cc66-4fe0-9973-7d306507e6d3 requires authentication: False
+2025-07-01 11:09:03,223 - app.middleware.security - INFO - Calling next middleware for request 4a66dd52-cc66-4fe0-9973-7d306507e6d3
+2025-07-01 11:09:03,223 - app.middleware.security - INFO - Request 4a66dd52-cc66-4fe0-9973-7d306507e6d3 processed by downstream, adding headers
+2025-07-01 11:09:03,224 - app.middleware.security - ERROR - Unexpected error in security middleware for request 4a66dd52-cc66-4fe0-9973-7d306507e6d3: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:09:03,225 - app.middleware.logging - ERROR - Request failed - GET / Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:09:03,227 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:09:04,347 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:09:04,348 - app.middleware.security - INFO - Processing request 586529ed-dc76-4976-8d7b-2653ed224280: GET https://localhost:8000/docs
+2025-07-01 11:09:04,348 - app.middleware.security - INFO - Request 586529ed-dc76-4976-8d7b-2653ed224280 requires authentication: False
+2025-07-01 11:09:04,348 - app.middleware.security - INFO - Calling next middleware for request 586529ed-dc76-4976-8d7b-2653ed224280
+2025-07-01 11:09:04,348 - app.middleware.security - INFO - Request 586529ed-dc76-4976-8d7b-2653ed224280 processed by downstream, adding headers
+2025-07-01 11:09:04,349 - app.middleware.security - ERROR - Unexpected error in security middleware for request 586529ed-dc76-4976-8d7b-2653ed224280: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:09:04,350 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.002s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:09:04,350 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:10:42,792 - app.middleware.logging - INFO - Request started - GET /docs from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:10:42,793 - app.middleware.security - INFO - Processing request 1b821a2c-58bc-4f54-8c67-3e0320ad59db: GET http://localhost:8000/docs
+2025-07-01 11:10:42,793 - app.middleware.security - INFO - Request 1b821a2c-58bc-4f54-8c67-3e0320ad59db requires authentication: False
+2025-07-01 11:10:42,793 - app.middleware.security - INFO - Calling next middleware for request 1b821a2c-58bc-4f54-8c67-3e0320ad59db
+2025-07-01 11:10:42,794 - app.middleware.security - INFO - Request 1b821a2c-58bc-4f54-8c67-3e0320ad59db processed by downstream, adding headers
+2025-07-01 11:10:42,794 - app.middleware.security - ERROR - Unexpected error in security middleware for request 1b821a2c-58bc-4f54-8c67-3e0320ad59db: 'MutableHeaders' object has no attribute 'pop'
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 70, in dispatch
+    self.add_security_headers(response)
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 195, in add_security_headers
+    response.headers.pop("Server", None)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MutableHeaders' object has no attribute 'pop'
+2025-07-01 11:10:42,795 - app.middleware.logging - ERROR - Request failed - GET /docs Error:  Time: 0.003s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:10:42,796 - app.main - ERROR - Unhandled exception: 
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/security.py", line 89, in dispatch
+    raise HTTPException(status_code=500, detail="Internal security error")
+fastapi.exceptions.HTTPException
+2025-07-01 11:11:19,351 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:11:19,352 - app.services.database - INFO - Database service disposed
+2025-07-01 11:11:19,352 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:11:19,352 - app.main - INFO - Services cleanup completed
+2025-07-01 11:11:19,352 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:11:29,671 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:11:29,671 - app.main - INFO - Database initialized successfully
+2025-07-01 11:11:29,674 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:11:29,674 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:11:29,691 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:11:29,726 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:11:29,726 - app.main - INFO - All services initialized successfully
+2025-07-01 11:11:30,137 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:11:39,614 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:11:39,617 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.005s User: anonymous ID: unknown
+2025-07-01 11:11:46,405 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:11:46,407 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:11:48,132 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:11:48,139 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.007s User: anonymous ID: unknown
+2025-07-01 11:12:53,373 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:12:53,375 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:12:58,656 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:12:58,662 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.006s User: anonymous ID: unknown
+2025-07-01 11:12:58,714 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:12:58,715 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:13:34,677 - app.middleware.logging - INFO - Request started - GET /docs from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:13:34,679 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:13:50,635 - app.middleware.logging - INFO - Request started - GET / from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:13:50,637 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:14:29,190 - app.middleware.logging - INFO - Request started - GET /api/v1 from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:14:29,192 - app.middleware.logging - INFO - Request completed - GET /api/v1 Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:14:34,464 - app.middleware.logging - INFO - Request started - GET /openapi.json from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:14:34,576 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.111s User: anonymous ID: unknown
+2025-07-01 11:15:17,737 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:15:17,739 - app.services.database - INFO - Database service disposed
+2025-07-01 11:15:17,739 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:15:17,740 - app.main - INFO - Services cleanup completed
+2025-07-01 11:15:17,740 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:15:21,216 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:15:21,217 - app.main - INFO - Database initialized successfully
+2025-07-01 11:15:21,219 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:15:21,219 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:15:21,235 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:15:21,267 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:15:21,267 - app.main - INFO - All services initialized successfully
+2025-07-01 11:15:21,702 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:15:27,533 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:15:27,539 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.006s User: anonymous ID: unknown
+2025-07-01 11:15:29,998 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:15:30,001 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:15:58,769 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:15:58,771 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:15:58,777 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:15:58,779 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:16:03,393 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:03,394 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:16:06,277 - app.middleware.logging - INFO - Request started - GET /api/v1/files/list from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:06,279 - app.middleware.logging - INFO - Request completed - GET /api/v1/files/list Status: 422 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:16:07,495 - app.middleware.logging - INFO - Request started - GET /api/v1 from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:07,496 - app.middleware.logging - INFO - Request completed - GET /api/v1 Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:16:15,581 - app.middleware.logging - INFO - Request started - GET /api/v1/files/list from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:15,584 - app.middleware.logging - INFO - Request completed - GET /api/v1/files/list Status: 422 Time: 0.003s User: anonymous ID: unknown
+2025-07-01 11:16:15,744 - app.middleware.logging - INFO - Request started - GET /api/ from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:15,745 - app.middleware.logging - INFO - Request completed - GET /api/ Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:16:20,674 - app.middleware.logging - INFO - Request started - GET / from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:20,677 - app.middleware.logging - INFO - Request completed - GET / Status: 200 Time: 0.003s User: anonymous ID: unknown
+2025-07-01 11:16:21,243 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:21,244 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:16:21,888 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:21,890 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:16:35,090 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:35,091 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:16:36,546 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:16:36,547 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:17:23,742 - app.middleware.logging - INFO - Request started - GET /api/v1/server/health from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:17:23,747 - app.middleware.logging - INFO - Request completed - GET /api/v1/server/health Status: 200 Time: 0.005s User: anonymous ID: unknown
+2025-07-01 11:17:37,929 - app.middleware.logging - INFO - Request started - GET /api/v1/server/status from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:17:37,930 - app.middleware.logging - ERROR - Request failed - GET /api/v1/server/status Error: Service IAetheriusAdapter not registered Time: 0.001s User: anonymous ID: unknown
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/simple_security.py", line 29, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/routing.py", line 264, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 592, in solve_dependencies
+    solved = await call(**sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/api/v1/server.py", line 81, in get_aetherius_adapter
+    return await container.get_service(IAetheriusAdapter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/core/container.py", line 152, in get_service
+    raise ValueError(f"Service {service_type.__name__} not registered")
+ValueError: Service IAetheriusAdapter not registered
+2025-07-01 11:17:38,389 - app.main - ERROR - Unhandled exception: Service IAetheriusAdapter not registered
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/trustedhost.py", line 51, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/logging.py", line 50, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/rate_limiting.py", line 173, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/middleware/simple_security.py", line 29, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/routing.py", line 264, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 592, in solve_dependencies
+    solved = await call(**sub_values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/api/v1/server.py", line 81, in get_aetherius_adapter
+    return await container.get_service(IAetheriusAdapter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/aetheriusmc.github.io/Aetherius-Core/components/WebConsole/backend/app/core/container.py", line 152, in get_service
+    raise ValueError(f"Service {service_type.__name__} not registered")
+ValueError: Service IAetheriusAdapter not registered
+2025-07-01 11:17:45,671 - app.middleware.logging - INFO - Request started - GET /docs from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:17:45,674 - app.middleware.logging - INFO - Request completed - GET /docs Status: 404 Time: 0.003s User: anonymous ID: unknown
+2025-07-01 11:18:18,423 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 11:18:18,424 - app.services.database - INFO - Database service disposed
+2025-07-01 11:18:18,424 - app.services.cache - INFO - Cache service disposed
+2025-07-01 11:18:18,424 - app.main - INFO - Services cleanup completed
+2025-07-01 11:18:18,424 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 11:18:22,135 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 11:18:22,135 - app.main - INFO - Database initialized successfully
+2025-07-01 11:18:22,138 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 11:18:22,138 - app.main - INFO - Cache service initialized successfully
+2025-07-01 11:18:22,155 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 11:18:22,191 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 11:18:22,192 - app.main - INFO - All services initialized successfully
+2025-07-01 11:18:22,619 - app.main - INFO - WebConsole application started successfully
+2025-07-01 11:18:29,860 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:18:29,863 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:18:31,039 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:18:31,099 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.060s User: anonymous ID: unknown
+2025-07-01 11:19:06,582 - app.middleware.logging - INFO - Request started - GET /docs from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:19:06,584 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:19:10,054 - app.middleware.logging - INFO - Request started - GET /api/v1/server/health from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-01 11:19:10,056 - app.middleware.logging - INFO - Request completed - GET /api/v1/server/health Status: 200 Time: 0.001s User: anonymous ID: unknown
+2025-07-01 11:33:33,136 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:33:33,138 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 11:33:34,538 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:33:34,542 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.004s User: anonymous ID: unknown
+2025-07-01 11:59:05,922 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:59:05,926 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.003s User: anonymous ID: unknown
+2025-07-01 11:59:07,002 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 11:59:07,009 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.007s User: anonymous ID: unknown
+2025-07-01 12:49:59,632 - app.main - INFO - Shutting down WebConsole application...
+2025-07-01 12:49:59,633 - app.services.database - INFO - Database service disposed
+2025-07-01 12:49:59,633 - app.services.cache - INFO - Cache service disposed
+2025-07-01 12:49:59,633 - app.main - INFO - Services cleanup completed
+2025-07-01 12:49:59,633 - app.main - INFO - WebConsole application shutdown complete
+2025-07-01 12:50:05,612 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 12:50:05,612 - app.main - INFO - Database initialized successfully
+2025-07-01 12:50:05,614 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 12:50:05,615 - app.main - INFO - Cache service initialized successfully
+2025-07-01 12:50:05,636 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 12:50:05,728 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 12:50:05,728 - app.main - INFO - All services initialized successfully
+2025-07-01 13:04:39,713 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 13:04:39,714 - app.main - INFO - Database initialized successfully
+2025-07-01 13:04:39,716 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 13:04:39,716 - app.main - INFO - Cache service initialized successfully
+2025-07-01 13:04:39,731 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 13:04:39,763 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 13:04:39,763 - app.main - INFO - All services initialized successfully
+2025-07-01 13:04:40,179 - app.main - INFO - WebConsole application started successfully
+2025-07-01 13:04:52,126 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 13:04:52,128 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-01 13:04:53,041 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 13:04:53,109 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.069s User: anonymous ID: unknown
+2025-07-01 13:05:00,790 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 13:05:00,794 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.004s User: anonymous ID: unknown
+2025-07-01 13:13:13,812 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 13:13:13,813 - app.main - INFO - Database initialized successfully
+2025-07-01 13:13:13,816 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 13:13:13,816 - app.main - INFO - Cache service initialized successfully
+2025-07-01 13:13:13,837 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 13:13:13,869 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 13:13:13,869 - app.main - INFO - All services initialized successfully
+2025-07-01 13:13:14,322 - app.main - INFO - WebConsole application started successfully
+2025-07-01 13:21:57,592 - app.services.database - INFO - Database service initialized successfully
+2025-07-01 13:21:57,592 - app.main - INFO - Database initialized successfully
+2025-07-01 13:21:57,596 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-01 13:21:57,597 - app.main - INFO - Cache service initialized successfully
+2025-07-01 13:21:57,612 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-01 13:21:57,708 - app.main - INFO - Mock Aetherius adapter initialized for development
+2025-07-01 13:21:57,708 - app.main - INFO - All services initialized successfully
+2025-07-01 13:21:58,172 - app.main - INFO - WebConsole application started successfully
+2025-07-01 13:22:05,436 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 13:22:05,439 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.003s User: anonymous ID: unknown
+2025-07-01 13:22:06,721 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-01 13:22:06,805 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.084s User: anonymous ID: unknown

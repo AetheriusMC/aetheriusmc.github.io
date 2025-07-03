@@ -1,0 +1,133 @@
+2025-07-02 08:38:29,934 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 08:38:29,934 - app.main - INFO - Database initialized successfully
+2025-07-02 08:38:29,937 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 08:38:29,937 - app.main - INFO - Cache service initialized successfully
+2025-07-02 08:38:29,952 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 08:38:29,959 - app.core.simple_console_client - INFO - 已连接到持久化控制台
+2025-07-02 08:38:29,960 - app.core.aetherius_adapter - INFO - Successfully tested Aetherius console connection
+2025-07-02 08:38:29,960 - app.core.aetherius_adapter - INFO - Aetherius Core adapter initialized successfully via console client
+2025-07-02 08:38:29,961 - app.main - INFO - Aetherius integration initialized successfully
+2025-07-02 08:38:29,961 - app.main - INFO - All services initialized successfully
+2025-07-02 08:38:30,609 - app.main - INFO - WebConsole application started successfully
+2025-07-02 08:38:30,609 - app.main - INFO - Shutting down WebConsole application...
+2025-07-02 08:38:30,610 - app.services.database - INFO - Database service disposed
+2025-07-02 08:38:30,610 - app.services.cache - INFO - Cache service disposed
+2025-07-02 08:38:30,611 - app.core.aetherius_adapter - INFO - Aetherius Core adapter disposed
+2025-07-02 08:38:30,611 - app.main - INFO - Services cleanup completed
+2025-07-02 08:38:30,611 - app.main - INFO - WebConsole application shutdown complete
+2025-07-02 08:38:30,611 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 08:38:30,611 - __main__ - ERROR - Error stopping WebConsole component: 'Server' object has no attribute 'servers'
+2025-07-02 08:52:19,815 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 08:52:19,815 - app.main - INFO - Database initialized successfully
+2025-07-02 08:52:19,817 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 08:52:19,818 - app.main - INFO - Cache service initialized successfully
+2025-07-02 08:52:19,835 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 08:52:19,835 - app.core.aetherius_adapter - ERROR - Failed to initialize Aetherius Core adapter: Aetherius console socket not found at /workspaces/aetheriusmc.github.io/Aetherius-Core/data/console/console.sock
+2025-07-02 08:52:19,836 - app.main - ERROR - Aetherius integration initialization failed: Aetherius console socket not found at /workspaces/aetheriusmc.github.io/Aetherius-Core/data/console/console.sock
+2025-07-02 08:52:19,836 - app.main - ERROR - Failed to initialize services: Aetherius console socket not found at /workspaces/aetheriusmc.github.io/Aetherius-Core/data/console/console.sock
+2025-07-02 08:52:19,841 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 08:52:19,842 - __main__ - ERROR - Error stopping WebConsole component: 'Server' object has no attribute 'servers'
+2025-07-02 08:53:00,271 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 08:53:00,272 - app.main - INFO - Database initialized successfully
+2025-07-02 08:53:00,274 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 08:53:00,274 - app.main - INFO - Cache service initialized successfully
+2025-07-02 08:53:00,293 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 08:53:00,297 - app.core.simple_console_client - INFO - 已连接到持久化控制台
+2025-07-02 08:53:00,298 - app.core.aetherius_adapter - INFO - Successfully tested Aetherius console connection
+2025-07-02 08:53:00,298 - app.core.aetherius_adapter - INFO - Aetherius Core adapter initialized successfully via console client
+2025-07-02 08:53:00,298 - app.main - INFO - Aetherius integration initialized successfully
+2025-07-02 08:53:00,298 - app.main - INFO - All services initialized successfully
+2025-07-02 08:53:00,842 - app.main - INFO - WebConsole application started successfully
+2025-07-02 08:55:07,688 - app.middleware.logging - INFO - Request started - GET /docs from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-02 08:55:07,690 - app.middleware.logging - INFO - Request completed - GET /docs Status: 200 Time: 0.002s User: anonymous ID: unknown
+2025-07-02 08:55:10,566 - app.middleware.logging - INFO - Request started - GET /openapi.json from 5.34.218.160 (User: anonymous, ID: unknown)
+2025-07-02 08:55:10,720 - app.middleware.logging - INFO - Request completed - GET /openapi.json Status: 200 Time: 0.155s User: anonymous ID: unknown
+2025-07-02 08:55:10,954 - app.middleware.logging - INFO - Request started - POST /api/v1/auth/login from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-02 08:55:10,969 - app.api.v1.auth - ERROR - Login failed: (sqlite3.OperationalError) no such table: users
+[SQL: SELECT users.username, users.email, users.password_hash, users.role, users.avatar, users.is_active, users.last_login, users.id, users.created_at, users.updated_at 
+FROM users 
+WHERE users.username = ? OR users.email = ?]
+[parameters: ('admin', 'admin')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 08:55:10,970 - app.middleware.logging - INFO - Request completed - POST /api/v1/auth/login Status: 500 Time: 0.016s User: anonymous ID: unknown
+2025-07-02 08:55:18,701 - app.middleware.logging - INFO - Request started - GET /api/v1/components from 127.0.0.1 (User: anonymous, ID: unknown)
+2025-07-02 08:55:18,702 - app.utils.security - WARNING - JWT verification failed: Not enough segments
+2025-07-02 08:55:18,702 - app.api.v1.components - ERROR - Authentication failed: 
+2025-07-02 08:55:18,703 - app.middleware.logging - INFO - Request completed - GET /api/v1/components Status: 401 Time: 0.002s User: anonymous ID: unknown
+2025-07-02 08:59:33,371 - app.main - INFO - Shutting down WebConsole application...
+2025-07-02 08:59:33,372 - app.services.database - INFO - Database service disposed
+2025-07-02 08:59:33,372 - app.services.cache - INFO - Cache service disposed
+2025-07-02 08:59:33,373 - app.core.aetherius_adapter - INFO - Aetherius Core adapter disposed
+2025-07-02 08:59:33,373 - app.main - INFO - Services cleanup completed
+2025-07-02 08:59:33,373 - app.main - INFO - WebConsole application shutdown complete
+2025-07-02 08:59:33,373 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 08:59:33,474 - __main__ - INFO - WebConsole component stopped
+2025-07-02 09:33:35,336 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 09:33:35,337 - app.main - INFO - Database initialized successfully
+2025-07-02 09:33:35,346 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 09:33:35,346 - app.main - INFO - Cache service initialized successfully
+2025-07-02 09:33:35,378 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 09:33:35,382 - app.core.simple_console_client - INFO - 已连接到持久化控制台
+2025-07-02 09:33:35,383 - app.core.aetherius_adapter - INFO - Successfully tested Aetherius console connection
+2025-07-02 09:33:35,383 - app.core.aetherius_adapter - INFO - Aetherius Core adapter initialized successfully via console client
+2025-07-02 09:33:35,383 - app.main - INFO - Aetherius integration initialized successfully
+2025-07-02 09:33:35,383 - app.main - INFO - All services initialized successfully
+2025-07-02 09:33:36,224 - app.main - INFO - WebConsole application started successfully
+2025-07-02 09:33:36,225 - app.main - INFO - Shutting down WebConsole application...
+2025-07-02 09:33:36,226 - app.services.database - INFO - Database service disposed
+2025-07-02 09:33:36,226 - app.services.cache - INFO - Cache service disposed
+2025-07-02 09:33:36,227 - app.core.aetherius_adapter - INFO - Aetherius Core adapter disposed
+2025-07-02 09:33:36,227 - app.main - INFO - Services cleanup completed
+2025-07-02 09:33:36,227 - app.main - INFO - WebConsole application shutdown complete
+2025-07-02 09:33:36,228 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 09:33:36,228 - __main__ - INFO - Stopping frontend server...
+2025-07-02 09:33:38,229 - __main__ - WARNING - Force killing frontend process...
+2025-07-02 09:33:38,229 - __main__ - INFO - Frontend server stopped
+2025-07-02 09:33:38,229 - __main__ - INFO - Stopping backend server...
+2025-07-02 09:33:38,229 - __main__ - ERROR - Error stopping WebConsole component: 'Server' object has no attribute 'servers'
+2025-07-02 09:35:08,204 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 09:35:08,208 - app.main - INFO - Database initialized successfully
+2025-07-02 09:35:08,238 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 09:35:08,238 - app.main - INFO - Cache service initialized successfully
+2025-07-02 09:35:08,257 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 09:35:08,259 - app.core.simple_console_client - INFO - 已连接到持久化控制台
+2025-07-02 09:35:08,260 - app.core.aetherius_adapter - INFO - Successfully tested Aetherius console connection
+2025-07-02 09:35:08,260 - app.core.aetherius_adapter - INFO - Aetherius Core adapter initialized successfully via console client
+2025-07-02 09:35:08,261 - app.main - INFO - Aetherius integration initialized successfully
+2025-07-02 09:35:08,261 - app.main - INFO - All services initialized successfully
+2025-07-02 09:35:09,192 - app.main - INFO - WebConsole application started successfully
+2025-07-02 09:35:09,193 - app.main - INFO - Shutting down WebConsole application...
+2025-07-02 09:35:09,195 - app.services.database - INFO - Database service disposed
+2025-07-02 09:35:09,196 - app.services.cache - INFO - Cache service disposed
+2025-07-02 09:35:09,196 - app.core.aetherius_adapter - INFO - Aetherius Core adapter disposed
+2025-07-02 09:35:09,196 - app.main - INFO - Services cleanup completed
+2025-07-02 09:35:09,196 - app.main - INFO - WebConsole application shutdown complete
+2025-07-02 09:35:09,196 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 09:35:09,197 - __main__ - INFO - Stopping frontend server...
+2025-07-02 09:35:11,198 - __main__ - WARNING - Force killing frontend process...
+2025-07-02 09:35:11,198 - __main__ - INFO - Frontend server stopped
+2025-07-02 09:35:11,198 - __main__ - INFO - Stopping backend server...
+2025-07-02 09:35:11,199 - __main__ - ERROR - Error stopping WebConsole component: 'Server' object has no attribute 'servers'
+2025-07-02 09:57:38,171 - app.services.database - INFO - Database service initialized successfully
+2025-07-02 09:57:38,171 - app.main - INFO - Database initialized successfully
+2025-07-02 09:57:38,189 - app.services.cache - INFO - Cache service initialized successfully
+2025-07-02 09:57:38,190 - app.main - INFO - Cache service initialized successfully
+2025-07-02 09:57:38,318 - app.main - INFO - WebSocket manager initialized successfully
+2025-07-02 09:57:38,337 - app.core.simple_console_client - INFO - 已连接到持久化控制台
+2025-07-02 09:57:38,338 - app.core.aetherius_adapter - INFO - Successfully tested Aetherius console connection
+2025-07-02 09:57:38,339 - app.core.aetherius_adapter - INFO - Aetherius Core adapter initialized successfully via console client
+2025-07-02 09:57:38,339 - app.main - INFO - Aetherius integration initialized successfully
+2025-07-02 09:57:38,339 - app.main - INFO - All services initialized successfully
+2025-07-02 09:57:40,308 - app.main - INFO - WebConsole application started successfully
+2025-07-02 09:57:40,308 - app.main - INFO - Shutting down WebConsole application...
+2025-07-02 09:57:40,309 - app.services.database - INFO - Database service disposed
+2025-07-02 09:57:40,309 - app.services.cache - INFO - Cache service disposed
+2025-07-02 09:57:40,309 - app.core.aetherius_adapter - INFO - Aetherius Core adapter disposed
+2025-07-02 09:57:40,310 - app.main - INFO - Services cleanup completed
+2025-07-02 09:57:40,310 - app.main - INFO - WebConsole application shutdown complete
+2025-07-02 09:57:40,310 - __main__ - INFO - Stopping WebConsole component...
+2025-07-02 09:57:40,310 - __main__ - INFO - Stopping frontend server...
+2025-07-02 09:57:42,312 - __main__ - WARNING - Force killing frontend process...
+2025-07-02 09:57:42,313 - __main__ - INFO - Frontend server stopped
+2025-07-02 09:57:42,313 - __main__ - INFO - Stopping backend server...
+2025-07-02 09:57:42,313 - __main__ - ERROR - Error stopping WebConsole component: 'Server' object has no attribute 'servers'

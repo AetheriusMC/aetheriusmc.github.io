@@ -1,0 +1,119 @@
+name: Component-Web
+display_name: Web Console
+version: 0.1.0
+description: Aetherius的官方图形化界面，提供实时控制台、状态监控和管理功能
+author: Aetherius Team
+website: https://github.com/AetheriusMC/Aetherius-Core
+
+# 组件依赖
+dependencies: []
+soft_dependencies: []
+
+# 支持的Aetherius版本
+aetherius_version: ">=1.0.0"
+
+# 组件分类
+category: interface
+
+# 权限要求
+permissions:
+  - aetherius.console.execute
+  - aetherius.status.read
+  - aetherius.players.read
+  - aetherius.players.manage
+  - aetherius.files.read
+  - aetherius.files.write
+
+# 标签
+tags:
+  - web
+  - interface
+  - dashboard
+  - console
+
+# 配置架构
+config_schema:
+  type: object
+  properties:
+    web_host:
+      type: string
+      default: "0.0.0.0"
+      description: Web服务器监听地址
+    web_port:
+      type: integer
+      default: 8080
+      minimum: 1
+      maximum: 65535
+      description: Web服务器端口
+    cors_origins:
+      type: array
+      items:
+        type: string
+      default: ["http://localhost:3000"]
+      description: 允许的CORS源
+    log_level:
+      type: string
+      default: "INFO"
+      enum: ["DEBUG", "INFO", "WARNING", "ERROR"]
+      description: 日志级别
+    max_log_lines:
+      type: integer
+      default: 1000
+      minimum: 100
+      maximum: 10000
+      description: 控制台最大日志行数
+    websocket_timeout:
+      type: integer
+      default: 60
+      minimum: 10
+      maximum: 300
+      description: WebSocket连接超时时间（秒）
+    enable_file_manager:
+      type: boolean
+      default: true
+      description: 是否启用文件管理器功能
+    enable_player_management:
+      type: boolean
+      default: true
+      description: 是否启用玩家管理功能
+
+# 默认配置
+default_config:
+  web_host: "0.0.0.0"
+  web_port: 8080
+  cors_origins: ["http://localhost:3000"]
+  log_level: "INFO"
+  max_log_lines: 1000
+  websocket_timeout: 60
+  enable_file_manager: true
+  enable_player_management: true
+
+# Web组件特有属性
+provides_web_interface: true
+web_routes:
+  - path: "/"
+    name: "Dashboard"
+    description: "主控制面板"
+  - path: "/console"
+    name: "Console"
+    description: "实时控制台"
+  - path: "/players"
+    name: "Players"
+    description: "玩家管理"
+  - path: "/files"
+    name: "File Manager"
+    description: "文件管理器"
+
+api_endpoints:
+  - path: "/api/status"
+    method: "GET"
+    description: "获取服务器状态"
+  - path: "/api/console/command"
+    method: "POST"
+    description: "执行控制台命令"
+  - path: "/api/players"
+    method: "GET"
+    description: "获取玩家列表"
+  - path: "/ws"
+    method: "WebSocket"
+    description: "实时数据推送"
