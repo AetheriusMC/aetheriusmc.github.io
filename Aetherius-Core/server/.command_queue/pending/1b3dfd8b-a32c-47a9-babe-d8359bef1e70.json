@@ -1,0 +1,7 @@
+{
+  "id": "1b3dfd8b-a32c-47a9-babe-d8359bef1e70",
+  "command": "say Hello from integration test!",
+  "timestamp": 1751197627.9859948,
+  "timeout": 30.0,
+  "status": "pending"
+}

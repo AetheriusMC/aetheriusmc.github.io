@@ -1,0 +1,16 @@
+{
+  "loaded": [
+    "ComponentWeb"
+  ],
+  "enabled": [
+    "ComponentWeb"
+  ],
+  "metadata": {
+    "ComponentWeb": {
+      "version": "0.1.0",
+      "path": "components/ComponentWeb",
+      "depends": [],
+      "soft_depends": []
+    }
+  }
+}

@@ -1,0 +1,63 @@
+server:
+  jar_path: "server/server.jar"
+  java_executable: "java"
+  java_args:
+    - "-Xmx2G"
+    - "-Xms1G"
+    - "-XX:+UseG1GC"
+    - "-XX:+ParallelRefProcEnabled"
+  server_args:
+    - "--nogui"
+  working_directory: "server"
+  auto_restart: true
+  restart_delay: 5.0
+
+logging:
+  level: "INFO"
+  file_path: "logs/aetherius.log"
+  console_output: true
+  max_size: "10MB"
+  backup_count: 5
+
+plugins:
+  directory: "plugins"
+  auto_reload: true
+
+components:
+  directory: "components"
+  enabled: ["ComponentWeb"]
+
+# Helper plugin integration
+helper_plugin:
+  enabled: false
+  data_file: "data/aetherius_helper.json"
+  update_interval: 5.0
+
+# Command queue settings
+command_queue:
+  enabled: true
+  queue_dir: "server/.command_queue"
+  max_retries: 3
+  timeout: 10.0
+  check_interval: 0.1
+
+# Performance monitoring
+performance:
+  enabled: true
+  monitor_interval: 10.0
+  history_size: 100
+
+# Web Component Configuration
+web:
+  enabled: true
+  host: "0.0.0.0"
+  port: 8080
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://127.0.0.1:3000"
+    - "https://reimagined-cod-q74g9xxg6v5v395v5-3000.app.github.dev"
+  log_level: "INFO"
+  max_log_lines: 1000
+  websocket_timeout: 60
+  enable_file_manager: true
+  enable_player_management: true

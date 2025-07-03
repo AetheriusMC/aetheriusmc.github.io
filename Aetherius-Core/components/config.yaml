@@ -1,0 +1,19 @@
+components: {}
+logging:
+  backup_count: 5
+  console_output: true
+  file_path: logs/aetherius.log
+  level: INFO
+  max_file_size: 10485760
+plugins: {}
+server:
+  auto_restart: true
+  jar_path: server/server.jar
+  java_args:
+  - -Xmx2G
+  - -Xms1G
+  java_executable: java
+  restart_delay: 5.0
+  server_args:
+  - --nogui
+  working_directory: server

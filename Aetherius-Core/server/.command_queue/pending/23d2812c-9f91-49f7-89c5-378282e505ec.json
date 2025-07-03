@@ -1,0 +1,7 @@
+{
+  "id": "23d2812c-9f91-49f7-89c5-378282e505ec",
+  "command": "time query daytime",
+  "timestamp": 1751197530.041908,
+  "timeout": 30.0,
+  "status": "pending"
+}

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruff check:*)",
+      "Bash(python:*)",
+      "Bash(rm:*)",
+      "Bash(grep:*)",
+      "Bash(pkill:*)",
+      "Bash(aetherius server:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(true)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "8a4d1422-085b-41a5-95d9-833f1c0976d1",
+  "command": "weather query",
+  "timestamp": 1751197480.6941464,
+  "timeout": 30.0,
+  "status": "pending"
+}

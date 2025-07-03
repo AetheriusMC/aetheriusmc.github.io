@@ -1,0 +1,6 @@
+name: example
+version: 1.0.0
+description: Example plugin for testing
+author: Aetherius Team
+api_version: 0.1.0
+main_class: ExamplePlugin

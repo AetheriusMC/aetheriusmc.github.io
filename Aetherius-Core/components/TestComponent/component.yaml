@@ -1,0 +1,15 @@
+name: TestComponent
+display_name: Test Component
+version: 1.0.0
+description: Test component for testing component system
+author: Aetherius Team
+dependencies: []
+soft_dependencies: []
+config_schema:
+  type: object
+  properties:
+    enabled:
+      type: boolean
+      default: true
+default_config:
+  enabled: true

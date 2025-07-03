@@ -1,0 +1,131 @@
+# Aetherius Core 配置文件
+# 基于新架构的完整配置示例
+
+# 核心配置
+core:
+  instance_id: "aetherius-${random_uuid}"
+  environment: "development"  # development, staging, production
+  debug: false
+
+# 服务器配置
+server:
+  jar_file: "server.jar"
+  java_executable: "java"
+  java_args:
+    - "-Xmx4G"
+    - "-Xms2G"
+    - "-XX:+UseG1GC"
+    - "-XX:+ParallelRefProcEnabled"
+    - "-XX:MaxGCPauseMillis=200"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:+DisableExplicitGC"
+    - "-XX:+AlwaysPreTouch"
+    - "-XX:G1NewSizePercent=30"
+    - "-XX:G1MaxNewSizePercent=40"
+    - "-XX:G1HeapRegionSize=8m"
+    - "-XX:G1ReservePercent=20"
+    - "-XX:G1HeapWastePercent=5"
+    - "-XX:G1MixedGCCountTarget=4"
+    - "-XX:InitiatingHeapOccupancyPercent=15"
+    - "-XX:G1MixedGCLiveThresholdPercent=90"
+    - "-XX:G1RSetUpdatingPauseTimePercent=5"
+    - "-XX:SurvivorRatio=32"
+    - "-XX:+PerfDisableSharedMem"
+    - "-XX:MaxTenuringThreshold=1"
+  server_args:
+    - "nogui"
+  working_directory: "server"
+  metrics_update_interval: 5.0
+  health_check_interval: 10.0
+
+# 事件系统配置
+events:
+  enable_persistence: true
+  max_stored_events: 10000
+  max_queue_size: 10000
+  max_workers: 50
+
+# 安全配置
+security:
+  max_login_attempts: 5
+  lockout_duration: 900  # 15分钟
+  session_timeout: 3600  # 1小时
+  permission_cache_ttl: 300  # 5分钟
+  password_policy:
+    min_length: 8
+    require_uppercase: true
+    require_lowercase: true
+    require_digit: true
+    require_special: true
+
+# 监控配置
+monitoring:
+  max_metrics: 10000
+  collection_interval: 5.0
+  health_checks:
+    cpu_threshold: 90.0
+    memory_threshold: 85.0
+    disk_threshold: 90.0
+
+# 扩展配置
+extensions:
+  auto_load: true
+  hot_reload: true
+  sandbox_mode: false
+  
+  # 具体扩展配置示例
+  hello_world:
+    enabled: true
+    greeting_message: "Welcome to Aetherius!"
+    auto_greet_new_players: true
+  
+  player_analytics:
+    enabled: true
+    stats_update_interval: 300
+    enable_realtime_tracking: true
+    max_history_days: 30
+
+# 日志配置
+logging:
+  level: "INFO"
+  file: "logs/aetherius.log"
+  max_size: "10MB"
+  backup_count: 5
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# 数据库配置（如果需要）
+database:
+  type: "sqlite"
+  path: "data/aetherius.db"
+  # 对于其他数据库类型:
+  # host: "localhost"
+  # port: 5432
+  # username: "aetherius"
+  # password: "${DB_PASSWORD}"
+  # database: "aetherius"
+
+# API配置
+api:
+  host: "127.0.0.1"
+  port: 8080
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://localhost:8080"
+  rate_limit:
+    requests_per_minute: 100
+    burst_size: 20
+
+# Web组件配置
+web:
+  enabled: true
+  host: "0.0.0.0"
+  port: 8080
+  static_files: "web/static"
+  templates: "web/templates"
+  
+# 性能调优
+performance:
+  async_workers: 10
+  thread_pool_size: 20
+  max_concurrent_requests: 100
+  request_timeout: 30.0
